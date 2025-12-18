@@ -1,18 +1,17 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
-import Exercise1 from './Practice/Exercise1'
-import Exercise2 from './Practice/Exercise2'
-import Exercise3 from './Practice/Exercise3'
-import Exercise4 from './Practice/Exercise4'
-import Exercise5 from './Practice/Exercise5'
-import Exercise6 from './Practice/Exercise6'
-import Exercise7 from './Practice/Exercise7'
+// import Exercise1 from './Practice/Exercise1'
+// import Exercise2 from './Practice/Exercise2'
+// import Exercise3 from './Practice/Exercise3'
+// import Exercise4 from './Practice/Exercise4'
+// import Exercise5 from './Practice/Exercise5'
+// import Exercise6 from './Practice/Exercise6'
+// import Exercise7 from './Practice/Exercise7'
 import Project1 from './Practice/Project1'
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
     <>
