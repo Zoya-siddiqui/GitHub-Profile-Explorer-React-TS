@@ -132,7 +132,7 @@ const Project1 = () => {
                         <img 
                           src={data.avatar_url} 
                           alt={data.name || data.login}
-                          className="w-48 h-48 md:w-64 md:h-64 rounded-2xl border-4 border-white/20 mx-auto md:mx-0"
+                          className="w-full h-full md:w-64 md:h-64 rounded-2xl border-4 border-white/20 mx-auto md:mx-0"
                         />
                       </div>
                       
